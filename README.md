@@ -8,8 +8,5 @@
     <div align=center>
         <a href="https://www.linkedin.com/in/www.linkedin.com/in/youssef-khaled-84b726249/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
     </div>
-    <div align=left>
-        <br>
-        <p>
 </div>
 
